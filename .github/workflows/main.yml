@@ -23,4 +23,4 @@ jobs:
         with:
           name: installer artifacts
           path: installer/dist/**
-          retention-days: 7
+          retention-days: 1
